@@ -1,0 +1,9 @@
+tick: 5s
+
+cloudflare:
+  apiKey: fffffffffffffffffffffffffffffffffffff
+  email:  mail@example.com
+
+dns:
+  zone:   example.com
+  record: dyn
